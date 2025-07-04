@@ -96,12 +96,21 @@ This analysis is summarized as follows:
 
 we are working with three(3) gender with our focus mainly on the male and the female gender, some employee did not specify theirs. Here we got to see the Male gender is more in number than the female folks since it is a manufacturing company, it is said to be a male dominated industry that explains the high number of the male gender compare to female and others.
 
+![Pie chart showing Over All Gender Distribution](https://github.com/user-attachments/assets/1871a8f9-ba64-4e19-bf01-c1a4556ab584)
+
+
 Base on rating work performance among employee by the management,the Male gender were rated more in the Average,Poor and Very Poor category while the Female were rated in theGood, Very Good category and some were not even rated at all. Clearly showing base on this rating system, we can say the Female gender are getting the job done
+
+![Column chart showing rating performance by gender](https://github.com/user-attachments/assets/8362873d-d138-4878-9e94-660bc4877f8e)
 
 We get to see that different regions within the same department do get paid the same amount. A clear example is the Accounting department where the Average Salary for the South West region is higher by $93,494 compare to the North West region with Average Salary $66,987 within the same department. Using same example we found out that the average salary for male gender is more than the female same goes for other department except in marketing and training(which by statistics is 60-70% women in the field) where the Female earn more. Also the gender that earned relatively high base on average salary was not specified.
 
+![Bar chat showing average salary by region for different department](https://github.com/user-attachments/assets/036cc488-45ea-4ae6-849e-c433fdd53bc7)
+
 Only about 292 people meet up the minimum threshold regulation which is about 30.87% of the total employee, with more from the male gender.
 Bonus Payment for the company is outline base on performance rating of each employee, depending on the category they fall into hence,bonus amount. Going by our calculation the Northwest Region(Kaduna) was the highest followed by North Central(Abuja) and the least is South West region(Lagos).
+
+![Donut chart showing number of employee within minimum salary threshold](https://github.com/user-attachments/assets/1385084d-05c3-4798-ac14-0d9c95d1404b)
 
 ### RECOMMENDATION
 
