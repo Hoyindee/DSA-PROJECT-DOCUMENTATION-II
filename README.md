@@ -71,10 +71,15 @@ Employee above threshold= CALCULATE(COUNTROWS('Palmoria group emp-data'),'Palmor
 
 Creating charts
    - Pie chart for over all gender distribution
-   - Matrix for count of gender by salary
-   - Column chart rating salary distribution by department and region
-   - Bar Chart for average salary distribution by gender and department
+   - Matrix for gender count by salary and count of Employee above minimum threshold
+   - Donut chart for salary distribution of minimum threshold
+   - Column chart rating salary distribution and distribution of salary by gender
+   - Bar Chart for average salary distribution,department and Sum of bonus,gender distribution
    - Table to show employee names and their calculated bonus amount
+
+### RESULT/FINDINGS 
+
+
 
   
  
