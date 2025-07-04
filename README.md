@@ -15,4 +15,49 @@ The primary source of Data used here is HR data.csv and excel file containing th
 ### TOOLS USED
 
 Power BI [download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
- Cleaning data, Analysis of Data and Visualization of result
+
+Cleaning data, Analysis of Data and Visualization of result
+
+### DATA CLEANING/PREPARATION
+
+In the initial data preparation phase, we performed the following tasks
+-	Data loading and inspection
+-	Handling missing values and blank spaces
+-	Data munching and formatting
+
+### EXPLORATORY DATA ANALYSIS
+
+We explored the HR data to answer key questions, such as
+1. What is the gender distribution in the organization?
+2. What is the performance ratings base on gender
+3. How is the Company Salary structure, is there a gender pay gap in what department and region
+4. Does the manufacturing company meet up the recent regulation of $90,000 salary threshold 
+5. How much bonus is to be paid to each employee
+
+### DATA ANALYSIS
+
+This Include the following process: 
+
+Creating calculated columns
+- **Total amount of salary for each employee**
+```dax
+ Total Salary = Palmoria group emp-data[] + Palmoria group emp-data[Bonus Amount]
+```
+- **Bonus Amount to be paid to each employee**
+```dax
+ Bonus Amount = Palmoria group emp-data[Salary]* IF(Palmoria group emp-data[Rating]="Very Good",RELATED{'Bonus Rules'[Very Good]),
+ IF(Palmoria group emp-data[Rating]="Very Poor",RELATED('Bonus rules'[Very Poor]),IF(Palmoria group emp-data[Rating]="Poor",RELATED('Bonus Rules'[Poor]),
+ IF(Palmoria group emp-data[Rating]="Good",RELATED('Bonus Rules'[Good]),IF(Palmoria group emp-data[Rating]="Average",RELATED('Bonus Rules'[Average])'
+ BLANK())))))
+```
+
+Creating Group e.g Salary Bin (bin size of $10,000)
+
+Creating Slicers (Regions, Gender)
+
+Creating Measures
+- **Average Salary**
+```dax
+
+  
+ 
