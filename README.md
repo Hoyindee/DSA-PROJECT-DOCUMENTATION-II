@@ -4,6 +4,19 @@ It is a  project that focus mainly on PowerBI for analysis
 
 ## PROJECT TOPIC: PALMORA GROUP HR ANALYSIS
 
+## TABLE OF CONTENT
+
+- [PROJECT OVERVIEW](#project-overview)
+- [DATA SOURCES](#data-sources)
+- [TOOLS USED](#tools-used)
+- [DATA CLEANING/PREPARATION](#data-cleaningpreparation)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+- [DATA ANALYSIS](#data-analysis)
+- [RESULT/FINDINGS](#resultfindings)
+- [RECOMMENDATION](#recommendation)
+- [LIMITATION](#limitation)
+- [REFERENCE](#reference)
+
 ### PROJECT OVERVIEW
 
 This Data analysis project aims to generate insight on the issues of Gender inequality between its employees associated with this manufacturing company across its three (3) regions. By analyzing the various parameters in the data received. We seek to gather enough insight to make a well-considered decision. Which then enable us to tell compelling stories around our data from understanding gotten, giving the best outcome.
