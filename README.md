@@ -79,6 +79,10 @@ Creating charts
 
 ### RESULT/FINDINGS 
 
+This analysis is summarized as follows:
+
+we are working with three(3) gender with our focus mainly on the male and the female gender, some employee did not specify theirs. Here we got to see the Male gender is more in number than the female folks since it is a manufacturing company, it is said to be a male dominated industry that explains the high number of the male gender compare to female and others.
+
 
 
   
