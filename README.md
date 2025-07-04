@@ -90,6 +90,34 @@ We get to see that different regions within the same department do get paid the 
 Only about 292 people meet up the minimum threshold regulation which is about 30.87% of the total employee, with more from the male gender.
 Bonus Payment for the company is outline base on performance rating of each employee, depending on the category they fall into hence,bonus amount. Going by our calculation the Northwest Region(Kaduna) was the highest followed by North Central(Abuja) and the least is South West region(Lagos).
 
+### RECOMMENDATION
+
+- Develop and implement a structured clear and transparent salary scale for each department and job grade - ensuring employee work performance is duly compensated regardless of Gender. That is to say, Standardize pay for similar work so as to reduce biased decisions which will Increase transparency so employees can understand reasons for the payment they received and also Build trust between management and employee
+   - Comply to the Equal Pay legislation a global law specific for equal pay Act)
+
+- Tackle workplace toxic behaviour
+   - Set Policies and measures that enhances healthy work-related competition either by Region or Gender
+   - establish a clear process to identify, report and resolve this toxic conduct/behaviour
+  
+- After checking budget impact adjust Salary plan so many employees can meet up the $90000 salary threshold since about 70% earn below the minimum salary policy which is a risk to the company reputation., implement system that enforce the policy going forward, monitor to ensure sustainability
+    - Track your payment report either annually or quarterly to monitor payment gap between gender
+
+-  Take deliberate steps to recruit, retain and promote female gender
+    - implement innitiatives that attract, develop and promote female talent while prioritize hiring more women and ensuring they take up more leadership position
+
+- Enhance Flexible working arrangement by promoting a culture that support diverse needs- an example is the maternity leave for the female gender.
+
+### LIMITATION
+
+Some information where missing, like the gender was not specified for some employee.
+
+### REFERENCE
+
+DSA class series on PowerBI
+
+Examining the Gender Gap in Manufacturing: 5 Potential Solutions for 2022 [link](https://www.manufacturingtomorrow.com/story/2022/05/examining-the-gender-gap-in-manufacturing-5-potential-solutions-for-2022/18725/)
+
+Reporting with Dax functions [link](https://www.bing.com/search?pglt=299&q=is+it+possible+to+write+out+our+dax+functions+when+reporting+on+our+github&cvid=1b94cafc81624c1a9b6a670e0cba3d0d&gs_lcrp=EgRlZGdlKgYIARBFGDsyBggAEEUYOTIGCAEQRRg7MgYIAhAuGEAyBggDEAAYQDIGCAQQABhAMgYIBRAuGEAyBggGEAAYQDIGCAcQRRg9MgYICBBFGD3SAQgyMzY2ajBqMagCCLACAQ&FORM=ANNTA1&PC=U531)  
 
 
   
