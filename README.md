@@ -58,6 +58,23 @@ Creating Slicers (Regions, Gender)
 Creating Measures
 - **Average Salary**
 ```dax
+ Average Salary= AVERAGE(Palmoria group emp-data[Salary])
+```
+- **Average Rating**
+```dax
+Average Rating= AVERAGE(Palmoria group emp-data[Rating])
+```
+- **Employee Above minimum threshold**
+```dax
+Employee above threshold= CALCULATE(COUNTROWS('Palmoria group emp-data'),'Palmoria group emp-data[Salary] > 90000)
+```
+
+Creating charts
+   - Pie chart for over all gender distribution
+   - Matrix for count of gender by salary
+   - Column chart rating salary distribution by department and region
+   - Bar Chart for average salary distribution by gender and department
+   - Table to show employee names and their calculated bonus amount
 
   
  
