@@ -112,6 +112,9 @@ Bonus Payment for the company is outline base on performance rating of each empl
 
 ![Donut chart showing number of employee within minimum salary threshold](https://github.com/user-attachments/assets/1385084d-05c3-4798-ac14-0d9c95d1404b)
 
+![Bar  chat showing sum total of bonus by region](https://github.com/user-attachments/assets/35c952d7-b70d-4fce-b71b-b956331d4235)
+
+
 ### RECOMMENDATION
 
 - Develop and implement a structured clear and transparent salary scale for each department and job grade - ensuring employee work performance is duly compensated regardless of Gender. That is to say, Standardize pay for similar work so as to reduce biased decisions which will Increase transparency so employees can understand reasons for the payment they received and also Build trust between management and employee
