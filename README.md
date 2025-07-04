@@ -11,3 +11,8 @@ This Data analysis project aims to generate insight on the issues of Gender ineq
 ### DATA SOURCES
 
 The primary source of Data used here is HR data.csv and excel file containing the bonus rules/mapping from the DSA team
+
+### TOOLS USED
+
+Power BI [download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+ Cleaning data, Analysis of Data and Visualization of result
